@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Roux Resources</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Roux Resources</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>Made by the Roux community</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>First Block</title>
+				<link>http://localhost:1313/docs/fb/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/fb/</guid>
+				<description>&lt;h1 id=&#34;first-block&#34;&gt;First Block&lt;a class=&#34;anchor&#34; href=&#34;#first-block&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title>Second Block</title>
+				<link>http://localhost:1313/docs/sb/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/sb/</guid>
+				<description>&lt;h1 id=&#34;second-block&#34;&gt;Second Block&lt;a class=&#34;anchor&#34; href=&#34;#second-block&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title>CMLL</title>
+				<link>http://localhost:1313/docs/cmll/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/cmll/</guid>
+				<description>&lt;h1 id=&#34;cmll&#34;&gt;CMLL&lt;a class=&#34;anchor&#34; href=&#34;#cmll&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title>Last Six Edges</title>
+				<link>http://localhost:1313/docs/lse/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/lse/</guid>
+				<description>&lt;h1 id=&#34;lse&#34;&gt;LSE&lt;a class=&#34;anchor&#34; href=&#34;#lse&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title>Other Resources</title>
+				<link>http://localhost:1313/docs/other/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/docs/other/</guid>
+				<description>&lt;h1 id=&#34;other-resources&#34;&gt;Other Resources&lt;a class=&#34;anchor&#34; href=&#34;#other-resources&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+			</item>
+	</channel>
+</rss>
