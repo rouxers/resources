@@ -18,7 +18,11 @@ markup:
   highlight:
     style: base16-snazzy
 
-contentDir: content
+# contentDir: content
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 # Multi-lingual mode config
 # There are different options to translate files
