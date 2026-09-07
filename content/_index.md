@@ -36,7 +36,7 @@ Despite Roux being a speedsolving method, it is also a fairly good beginner meth
 
 ## Second Block
 
-- [Kian's Second Block Last Pairs and Louis' other tricks](https://docs.google.com/document/d/1bX50jAOM_veHsVJeLYGvSrH4uW9xrubep1zOSLdE4Vk/edit?tab=t.0)	
+- [Kian's Second Block Last Pair Algs and Louis' other tricks](https://docs.google.com/document/d/1bX50jAOM_veHsVJeLYGvSrH4uW9xrubep1zOSLdE4Vk/edit?tab=t.0)	
 - [Zhouheng's Second Square trainer](https://onionhoney.github.io/roux-trainers/#fb)	
 	
 	
@@ -54,6 +54,7 @@ Note that for sets like EOLR and beyond, it is highly recommended to learn them 
 - [Crys's DFDB tutorial](https://www.youtube.com/watch?v=wvSBSZ_cyzc)	
 - [Roux Reader's guide for avoiding Dots](https://book.rouxers.com/en/lse.html#eolrb-4c-non-cycle-influencing)	
 - [Zhouheng's LSE Trainers](https://onionhoney.github.io/roux-trainers/#eopair)	
+- [Jade's EOLRb Trainer](https://enbyne.tech/tools/EOLRb)
 - [Jade's LSE Trainers (note that the setting for not giving scrambles with Misoriented Centers is currently broken)](https://enbyne.tech/tools/laser)	
 - [Neo's EOLRb algorithms (that are missing in trainers as none are <M, U> gen)](https://cuar03.github.io/web/3x3/EOLRb/index.html)	
 
@@ -63,6 +64,12 @@ Note that for sets like EOLR and beyond, it is highly recommended to learn them 
 
 {{% details "DFDB Written Guide" %}}
 ![A written description for how the DFDB recognition method works.](dfdb-guide.png)
+{{% /details %}}
+
+{{% details "EOLR Docs" %}}
+- [EOLR Doc #1](https://docs.google.com/document/d/1dvGERLfN-0rVwN914HH1zRPHLfdM6d5rPfe0HxOMK08/edit?tab=t.0#heading=h.phjfa966vtn)
+- [EOLR Doc #2](https://docs.google.com/document/d/1rb5M9_5CTlozLu9acFIgqq9LYYKaUdnMDX0vcLOURT4/edit?tab=t.0#heading=h.56gpiofdcy0g)
+- [Optimal EOLR Spreadsheet](https://docs.google.com/spreadsheets/d/1sLrjfuVFF41es4W371zeKBR1n98-TLXCigrqrRhnjtQ/edit?gid=1330121609#gid=1330121609)
 {{% /details %}}
 
 ## Miscellaneous
