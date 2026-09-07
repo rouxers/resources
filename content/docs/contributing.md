@@ -5,6 +5,10 @@ title: Contributing
 
 # Contributing
 
+{{% hint info %}}
+If you're looking for the main resources page, please [go here](../_index.md)
+{{% /hint %}}
+
 This website is fully hosted on GitHub. If you have resources that you'd like to add, please make a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)!
 
 The GitHub repository we used [can be found here](https://github.com/rouxers/resources), but you can also press the 'Edit this page' button on the bottom right-hand side of every page to propose changes to a specific section.

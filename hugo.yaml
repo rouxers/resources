@@ -52,7 +52,10 @@ menu:
   #     url: "https://github.com/rouxers/resources"
   #     weight: 20
 
-  # before: []
+  before: 
+    - name: "Resources"
+      url: "/"
+      weight: 1
   after:
     - name: "GitHub"
       url: "https://github.com/rouxers/resources"
