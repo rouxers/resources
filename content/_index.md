@@ -75,7 +75,7 @@ Note that for sets like EOLR and beyond, it is highly recommended to learn them 
 ## Miscellaneous
 These are unexplored algsets/techniques which could theoretically be used to improve the method.
 
-- [Straughan Recognition (see the Three Sticker Deduction section)](https://sites.google.com/site/athefre/recognition/straughan-recognition)	
+- [Straughan Recognition (see the Three Sticker Tracking section)](https://sites.google.com/site/athefre/recognition/straughan-recognition)	
 - [TCMLL (algorithms only for OH)](https://docs.google.com/spreadsheets/d/1ucLxYATDLN82UuJuEaDLFuKhaVHlKUaqicId2_LNISA/edit?usp=sharing)	
 - [ACMLL](https://sites.google.com/site/athefre/roux/acmll)	
 - [CEOR (to do CPFB instead of FB, and COLS instead of SBLP)](https://docs.google.com/spreadsheets/d/1F0zPKlARw3GUTODys_wrtfP7cqgzS7Kse_Cwv67XBQA/edit?gid=1547543598#gid=1547543598)	
